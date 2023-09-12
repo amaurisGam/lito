@@ -1,0 +1,8 @@
+{
+  "name": "Lito",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "20d6c042"
+}
